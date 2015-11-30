@@ -1,0 +1,136 @@
+\documentclass[
+bibliography=totoc,
+headings=big,
+captions=tableheading,
+chapterprefix=true% like in standard class "report"
+]{scrreprt}
+\usepackage[utf8]{inputenc}
+\usepackage[frenchb]{babel}
+\usepackage[left=2cm,right=2cm,top=1.5cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{minitoc}
+\usepackage{setspace}
+\usepackage{multicol}
+
+% package for symbol-fonts
+\usepackage{marvosym}
+
+% other fonts
+\usepackage{mathpazo}
+
+% Finally, give us PDF bookmarks
+\usepackage{color,hyperref}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.3}
+\hypersetup{colorlinks,breaklinks,
+            linkcolor=darkblue,urlcolor=darkblue,
+            anchorcolor=darkblue,citecolor=darkblue}
+
+\begin{document}
+    \pagenumbering{gobble}
+
+\hfill \includegraphics[scale=0.1]{goelug}
+
+\section*{Présentation de l'association GoéLUG}
+
+% \dictum[Sun Tzu]{If you know the enemy and you know yourself %\\
+% you need not fear the results of a hundred battles.}
+
+\minitoc
+
+GoéLUG est la combinaison de goéland, oiseau très connu des havrais, et LUG, acronyme anglo-saxon qui désigne un groupe d’utilisateurs Linux. 
+C'est une association loi 1901 à fonctionnement collégial dont les buts affichés sont:
+    
+\begin{itemize}
+\item   promouvoir l'utilisation des logiciels libres sous toutes ses formes : débats, installs parties, cours ou ateliers.
+
+ \item   démocratiser les technologies de l’Internet, ce dernier fonctionnant essentiellement grâce au logiciel libre.
+
+\item    échanger autour de la culture libre et de l’art libre.
+
+\end{itemize}
+
+
+\section*{Notre besoin}
+
+Un lieu pour organiser des événements de manière régulière et/ou ponctuelle, comme :
+    
+
+\begin{enumerate}
+
+\item des install parties (10 à 30 personnes). 
+
+    Le principe d'une install party est d'accompagnement des personnes pour l'installation d'un système d'exploitation libre, type Ubuntu. 
+
+\item des permanences (5 à 10 personnes)        
+
+\item des ateliers (5 à 10 personnes): 
+
+\begin{enumerate}
+
+\item    GoéBidouille: ateliers autour de hardware et d'électronique (exemple: raspberry)
+
+\item    Initiation au développement de logiciels et de sites web
+
+\item    Initiation logiciels libres (traitement de texte, mails, graphisme, ...)
+
+\end{enumerate}
+
+\end{enumerate}
+        
+
+\section*{Ce que nous pourrions offrir pour la cantine numérique 'Le Container'}
+
+    % Assistance aux associations dans leur stratégie de communication (montage d’un site Web, hébergement,…) <= je ne suis pas certain de cette proposition. / Ok, je vais la enlever pour le lettre
+
+\begin{itemize}
+
+\item    Assistance à la demande, de déploiement de serveurs, d’installation de systèmes d’exploitation libres, \dots
+
+\item  Atelier pédagogique et vulgarisation du monde libre en informatique ( réunion, install Party, Crypto party, \dots) en soirée ou en week-end.
+
+\item Sécuriser votre informatique dans le World Wild Web.
+
+\end{itemize}
+
+\section*{Un calendrier}
+
+\begin{multicols}{2}
+
+\subsubsection*{Permanence:}
+
+Proposition de calendrier
+
+\begin{itemize}
+
+\item jeudi 7 janvier 2016
+
+\item jeudi 4 février 2016
+
+\item jeudi 3 mars 2016 
+
+\item jeudi 7 avril 2016 
+
+\item jeudi 5 mai 2016
+
+\item jeudi 2 juin 2016
+
+\end{itemize}
+
+Proposition d'horaires : 18h-22h.
+% Ce qui correspondes a une formule facile a retenir comme "chaque premiere jeudi du mois".
+
+\columnbreak
+
+\subsubsection*{Install parties:}
+
+Ponctuelles, environ 4 fois par an, si possible le samedi toute la journée.
+
+\subsubsection*{Ateliers:}
+
+Ponctuels, si possible le samedi à la demi-journée.
+
+\end{multicols}
+\hfill \href{http://www.goelug.org/}{\tt www.goelug.org} / \href{mailto:contact@goelug.org}{\tt contact@goelug.org}
+
+\end{document}
