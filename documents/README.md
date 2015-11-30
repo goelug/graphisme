@@ -1,5 +1,5 @@
 
-# Documents GoeLUG en forme de Latex
+# Documents GoeLUG en forme Latex
 
 Il est possible d'utiliser `pdflatex` pour en creer les formats PDF.
 
