@@ -2,11 +2,35 @@
 
 % \usepackage[utf-8]{inputenc}
 \usepackage[right]{eurosym}
-\usepackage{ngerman}
 \usepackage{longtable}
 \usepackage{graphics}
+\usepackage[ngerman,frenchb]{babel}
+
+% \usepackage[tmargin=1in,bmargin=1in,lmargin=1.25in,rmargin=1.25in]{geometry}
+
+\usepackage{xcolor}
+\usepackage{titlesec}
+
+\definecolor{MSBlue}{rgb}{.204,.353,.541}
+\definecolor{MSLightBlue}{rgb}{.31,.506,.741}
+
+% Set formats for each heading level
+\titleformat*{\section}{\Large\bfseries\sffamily\color{MSBlue}}
+\titleformat*{\subsection}{\large\bfseries\sffamily\color{MSLightBlue}}
+\titleformat*{\subsubsection}{\itshape\subsubsectionfont}
+
 
 \setmargins{12mm}{12mm}{12mm}{12mm} %oben, unten, links, rechts
+
+
+% Finally, give us PDF bookmarks
+\usepackage{color,hyperref}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.3}
+\hypersetup{colorlinks,breaklinks,
+	linkcolor=darkblue,urlcolor=darkblue,
+	anchorcolor=darkblue,citecolor=darkblue}
+
+
 
 \begin{document}
 
@@ -20,27 +44,7 @@
 	
 		\vspace{42pt}
 	
-		\includegraphics[width=6cm]{goelug}
-		
-		\vspace{32pt}
-	
-		\huge
-	
-		Go\'{e}LUG
-	
-		%\vspace{32pt}
-	
-		\normalsize
-	
-		{\tt www.goelug.org}
-
-		\vspace{42pt}
-	
-		\textsf{open:} \\[18pt]
-		$ 1^{er} $ Jeudi du mois $ 18^{00} $ - $ 21^{00} $ \\
-
-		a la cantine numerique
-		Le Container	
+		\input{flyerfront.tex}
 
 		\vspace{52pt}
 		
@@ -58,11 +62,10 @@
 \begin{center}
 \textsf{
 	Pour plus d'informations: \\
-	contact@goelug.org
+	\href{mailto:contact@goelug.org}{\tt contact@goelug.org}
 }
 
-\small{\LaTeX{} \\
-\textsf{www.goelug.org}}
+\href{http://www.goelug.org}{\tt www.goelug.org}
 	
 \end{center}
 

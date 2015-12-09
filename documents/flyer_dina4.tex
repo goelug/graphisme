@@ -2,14 +2,24 @@
 
 % \usepackage[utf-8]{inputenc}
 \usepackage[right]{eurosym}
-\usepackage{ngerman}
 \usepackage{longtable}
 \usepackage[pdftex]{graphicx}
+\usepackage[ngerman,frenchb]{babel}
 % \usepackage{dsfont}
 
 \usepackage{fullpage}
 
 % \setmargins{4mm}{4mm}{4mm}{4mm} %oben, unten, links, rechts
+
+
+% Finally, give us PDF bookmarks
+\usepackage{color,hyperref}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.3}
+\hypersetup{colorlinks,breaklinks,
+	linkcolor=darkblue,urlcolor=darkblue,
+	anchorcolor=darkblue,citecolor=darkblue}
+
+
 
 \begin{document}
 
@@ -21,29 +31,9 @@
 
 	\begin{center}
 	
-%		\vspace{42pt}
+		\vspace{32pt}
 
-		\includegraphics[scale=0.35]{goelug}
-
-		\vspace{10pt}
-	
-		\huge
-	
-		Go\'{e}LUG
-	
-		%\vspace{32pt}
-	
-		\normalsize
-	
-		{\tt www.goelug.org}
-
-		\vspace{42pt}
-	
-		\textsf{open:} \\[18pt]
-		$ 1^{er} $ Jeudi du mois $ 18^{00} $ - $ 21^{00} $ \\
-
-		a la cantine numerique
-		Le Container	
+		\input{flyerfront.tex}
  	
  		\vspace{10pt}
 		
