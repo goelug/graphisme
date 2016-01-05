@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="718.93726"
+   height="554.16101"
    id="svg4870"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 27">
+   sodipodi:docname="goeland.svg">
   <defs
      id="defs4872">
     <radialGradient
@@ -130,17 +130,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="127.3927"
-     inkscape:cy="465.92929"
+     inkscape:zoom="0.35"
+     inkscape:cx="101.35149"
+     inkscape:cy="-61.538635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="477"
-     inkscape:window-height="450"
-     inkscape:window-x="764"
-     inkscape:window-y="176"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata4875">
     <rdf:RDF>
@@ -156,9 +160,10 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-15.478235,-21.281667)">
     <g
-       transform="translate(-718.65229,135.56738)"
+       transform="matrix(0.80829848,0,0,0.80829848,-509.05061,-22.366455)"
        id="layer6"
        style="display:inline">
       <path
@@ -168,7 +173,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-716.60343,791.00918)"
+       transform="matrix(0.80829848,0,0,0.80829848,-507.39451,507.42616)"
        id="layer3"
        style="display:inline">
       <path
@@ -201,7 +206,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-716.60343,791.00918)"
+       transform="matrix(0.80829848,0,0,0.80829848,-507.39451,507.42616)"
        id="layer2"
        style="display:inline">
       <g
