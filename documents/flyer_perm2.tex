@@ -6,7 +6,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{fullpage}
 
-\usepackage[sfdefault, black]{merriweather} %% Option 'black' gives heavier bold face
+\usepackage[sfdefault]{merriweather} %% Option 'black' gives heavier bold face
 
 \usepackage{tikz}
 
@@ -24,8 +24,11 @@
 	linkcolor=darkblue,urlcolor=darkblue,
 	anchorcolor=darkblue,citecolor=darkblue}
 
+\pagestyle{empty}
+
 \begin{document}
 
+%  FRONT
 \input{flyer_perm2_content.tex}
 \newpage
 
@@ -36,6 +39,19 @@
 \newpage
 
 \input{flyer_perm2_content.tex}
+\newpage
+
+% BACK
+\input{flyer_perm2_back.tex}
+\newpage
+
+\input{flyer_perm2_back.tex}
+\newpage
+
+\input{flyer_perm2_back.tex}
+\newpage
+
+\input{flyer_perm2_back.tex}
 \newpage
 
 \end{document}
