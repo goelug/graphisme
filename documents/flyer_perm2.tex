@@ -24,6 +24,13 @@
 	linkcolor=darkblue,urlcolor=darkblue,
 	anchorcolor=darkblue,citecolor=darkblue}
 
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+
 \pagestyle{empty}
 
 \begin{document}
