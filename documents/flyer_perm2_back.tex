@@ -7,7 +7,15 @@
 % \end{tikzpicture}
 % };
 % \end{tikzpicture}
-
+%
+\begin{tikzpicture}[remember picture, overlay]
+\node at (current page.north){%
+\begin{tikzpicture}[overlay]
+\node[opacity=0.2, anchor=north] at (0, -45mm) {\includegraphics[scale=0.12]{goeland}};
+\end{tikzpicture}
+};
+\end{tikzpicture}
+%
 \begin{center}
 \texttt{GoéLUG vous invite au \\ CONTAINER} \\
 \texttt{le 04-Fevrier-2016 \`a 20h00}
