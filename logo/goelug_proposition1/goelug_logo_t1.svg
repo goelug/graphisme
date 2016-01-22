@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="427.32904"
+   height="228.36577"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="354.29546"
-     inkscape:cy="905.74304"
+     inkscape:cx="201.82736"
+     inkscape:cy="149.8201"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="742"
@@ -37,7 +37,11 @@
      inkscape:window-maximized="0"
      inkscape:snap-grids="true"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     fit-margin-top="3"
+     fit-margin-left="3"
+     fit-margin-right="3"
+     fit-margin-bottom="3" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -46,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +58,8 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Linux User Group"
-     style="display:none">
+     style="display:none"
+     transform="translate(-96.94906,-42.634194)">
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -71,7 +76,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Le Havre"
-     style="display:none">
+     style="display:none"
+     transform="translate(-96.94906,-42.634194)">
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -88,7 +94,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Head Grey"
-     style="display:none">
+     style="display:none"
+     transform="translate(-96.94906,-42.634194)">
     <path
        style="fill:#f2f2f2;stroke:none;display:inline"
        d="m 274.06001,164.42033 c 0,0 3.02136,-2.85522 3.75897,-12.73087 0.33258,-4.45277 -6.48275,6.51637 -13.50241,3.42031 -5.4481,-2.40293 -16.38649,-4.54305 -16.87119,-10.97094 -0.48471,-6.42788 33.26986,-25.69381 31.77871,-31.57062 -1.49114,-5.8768 -3.58514,-20.150207 -10.40982,-29.807325 -6.82468,-9.657118 -30.50451,-27.365395 -47.781,-27.0562 -17.27648,0.309195 -34.66396,7.609467 -46.57649,23.474258 -11.91253,15.864791 -6.65947,40.421637 -5.01053,55.811457 1.64893,15.38982 -5.87293,30.75162 -11.80493,46.39268 -5.932,15.64107 36.11498,18.34048 55.0855,16.56535 11.59919,-1.08537 22.28963,-12.68168 37.22313,-13.29236 -6.49507,-10.61069 24.11006,-20.23574 24.11006,-20.23574 z"
@@ -112,59 +119,66 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Hair"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-96.94906,-42.634194)">
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 285.34832,72.423722 c 0,0 -15.47068,11.373941 -21.34409,6.166422 -5.87341,-5.207519 8.38234,-26.336658 8.38234,-26.336658 0,0 -16.89924,17.933642 -27.37744,11.020666 -10.47819,-6.912976 1.10732,-24.224438 1.10732,-24.224438 0,0 -16.80323,16.976821 -26.16352,16.449236 -9.36029,-0.527584 -14.63017,-14.864756 -14.63017,-14.864756 0,0 -2.60497,16.268217 -9.7549,19.816172 -7.14993,3.547955 -25.40573,-10.247282 -25.40573,-10.247282 0,0 13.15189,18.138001 6.82687,24.305839 -6.32501,6.167839 -26.03553,-6.060915 -26.03553,-6.060915 0,0 23.20648,17.575311 19.06381,25.744921 -4.14267,8.169611 -25,-5.425845 -25,-5.425845 l 3.78064,5.591725"
+       d="m 293.34832,80.423722 c 0,0 -15.47068,11.373941 -21.34409,6.166422 -5.87341,-5.207519 8.38234,-22.336658 8.38234,-22.336658 0,0 -18.89924,11.933642 -29.37744,5.020666 -10.47819,-6.912976 -11.01451,-22.224438 -11.01451,-22.224438 0,0 -10.6814,14.976821 -20.04169,14.449236 -9.36029,-0.527584 -14.63017,-14.864756 -14.63017,-14.864756 0,0 1.39503,16.268217 -5.7549,19.816172 -7.14993,3.547955 -25.40573,-10.247282 -25.40573,-10.247282 0,0 19.15189,22.138001 12.82687,28.305839 -6.32501,6.167839 -26.03553,-6.060915 -26.03553,-6.060915 0,0 23.20648,17.575311 19.06381,25.744922 -4.14267,8.16961 -25,-5.425846 -25,-5.425846 l 3.78064,5.591726"
        id="path3004"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czczczczczczcc"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
+       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.eps.png"
        inkscape:export-xdpi="167.37344"
        inkscape:export-ydpi="167.37344" />
+    <path
+       style="fill:#ffff00;stroke:#000000;stroke-width:2.67238688;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 241.36508,174.90758 40.08581,10.8168 32.5206,80.93939 -105.37497,-72.66771 z"
+       id="path3024"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3794"
+       sodipodi:cx="237.63838"
+       sodipodi:cy="193.47998"
+       sodipodi:rx="2.5253813"
+       sodipodi:ry="1.5152289"
+       d="m 239.62208,194.41769 c -0.86313,0.65734 -2.45098,0.77039 -3.54654,0.25251 -1.09557,-0.51788 -1.28399,-1.47059 -0.42086,-2.12793 0.86314,-0.65734 2.45098,-0.77039 3.54655,-0.25251 1.07718,0.50919 1.28026,1.44112 0.45746,2.09936"
+       sodipodi:start="0.66728433"
+       sodipodi:end="6.9266864"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3796"
+       sodipodi:cx="239.53242"
+       sodipodi:cy="193.10118"
+       sodipodi:rx="1.8940361"
+       sodipodi:ry="1.3889598"
+       d="m 241.0202,193.96075 c -0.64735,0.60256 -1.83823,0.70619 -2.65991,0.23147 -0.82167,-0.47473 -0.96299,-1.34804 -0.31564,-1.9506 0.64735,-0.60257 1.83823,-0.7062 2.65991,-0.23147 0.80789,0.46676 0.96019,1.32102 0.34309,1.92441"
+       sodipodi:start="0.66728433"
+       sodipodi:end="6.9266864"
+       sodipodi:open="true" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Glasses"
-     style="display:inline">
-    <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 197.16034,160.54877 c -5.96973,-10.8785 -16.73083,-22.02807 -21.89286,-19.71429 -5.16203,2.31379 -3.92857,-10.89286 -3.92857,-10.89286 l 24.39285,17.03572 c 0,0 2.57688,6.23565 1.42858,13.57143 z"
-       id="path3002"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czccc"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
-       inkscape:export-xdpi="167.37344"
-       inkscape:export-ydpi="167.37344" />
-  </g>
+     style="display:inline"
+     transform="translate(-96.94906,-42.634194)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="GoeLUG"
-     style="display:inline">
-    <path
-       style="font-size:108.83048248px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Telex;-inkscape-font-specification:Telex"
-       inkscape:connector-curvature="0"
-       id="path2992"
-       d="m 224.4795,182.66586 c -6.87461,-0.41042 -13.51837,-3.82207 -19.93128,-10.23499 -6.41287,-6.41287 -9.79888,-13.03097 -10.15803,-19.85433 -0.30779,-6.87457 2.53953,-13.31312 8.54198,-19.31565 6.00248,-6.0024 12.41537,-8.82407 19.23869,-8.46502 6.87462,0.30788 13.51837,3.66824 19.93129,10.08107 6.41287,6.41296 9.79888,13.08236 10.15803,20.00825 0.35908,6.82335 -2.46258,13.23624 -8.46503,19.23869 -6.00249,6.00249 -12.44103,8.84981 -19.31565,8.54198 m -20.54692,-31.47451 c 0.51305,4.41212 3.18081,9.0294 8.0033,13.85186 4.8225,4.82254 9.46543,7.51595 13.92881,8.08025 4.51467,0.51306 8.59327,-1.05169 12.23581,-4.69424 3.6425,-3.64249 5.1816,-7.69543 4.61728,-12.15885 -0.51305,-4.51463 -3.1808,-9.18322 -8.00329,-14.00577 -4.82251,-4.82245 -9.46544,-7.46455 -13.92882,-7.92634 -4.46337,-0.56427 -8.51632,0.97482 -12.15885,4.61729 -3.64251,3.64257 -5.20725,7.72117 -4.69424,12.2358"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
-       inkscape:export-xdpi="167.37344"
-       inkscape:export-ydpi="167.37344" />
-    <path
-       style="font-size:108.83048248px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Telex;-inkscape-font-specification:Telex"
-       inkscape:connector-curvature="0"
-       id="path2994"
-       d="m 263.02998,159.96595 c -7.04457,-0.31542 -13.87885,-3.78513 -20.50286,-10.40915 -6.62398,-6.62394 -10.09369,-13.40565 -10.40914,-20.34512 -0.36797,-6.99195 2.47087,-13.51079 8.51657,-19.55657 11.25028,-11.250202 23.76227,-9.988498 37.536,3.78513 l 1.26172,1.26172 -28.30972,28.30972 c 4.67885,4.4686 9.25257,6.88687 13.72114,7.25485 4.46855,0.36802 8.59542,-1.34055 12.38057,-5.12572 3.83769,-3.83767 7.01826,-9.06852 9.5417,-15.69255 l 7.17601,2.9177 c -2.41831,7.57033 -6.15088,13.87888 -11.19772,18.92571 -6.09829,6.0983 -12.66973,8.98973 -19.71427,8.67428 m -16.56001,-44.4754 c -6.25597,6.25603 -6.43998,13.48461 -0.552,21.68571 l 20.18743,-20.18745 c -3.99542,-3.25936 -7.57029,-4.9942 -10.72458,-5.20455 -3.20684,-0.26281 -6.17712,0.97263 -8.91085,3.70629"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
-       inkscape:export-xdpi="167.37344"
-       inkscape:export-ydpi="167.37344" />
+     style="display:inline"
+     transform="translate(-96.94906,-42.634194)">
     <path
        style="font-size:108.83048248px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Telex;-inkscape-font-specification:Telex"
        inkscape:connector-curvature="0"
        id="path2996"
        d="m 310.70717,180.91328 0,-84.027349 11.27485,0 0,74.176689 38.4532,0 0,9.85066 -49.72805,0"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
+       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.eps.png"
        inkscape:export-xdpi="167.37344"
        inkscape:export-ydpi="167.37344" />
     <path
@@ -172,7 +186,7 @@
        inkscape:connector-curvature="0"
        id="path2998"
        d="m 372.92657,154.20967 0,-57.323739 11.39354,0 0,56.730319 c -2e-5,12.2639 7.12094,18.39583 21.36289,18.39582 14.32099,1e-5 21.4815,-5.93412 21.48157,-17.8024 l 0,-57.323739 11.39353,0 0,57.323739 c -7e-5,8.78254 -2.72977,15.58701 -8.1891,20.41342 -5.45947,4.82643 -13.68813,7.23965 -24.686,7.23965 -10.99797,0 -19.22662,-2.41322 -24.686,-7.23965 -5.3803,-4.82641 -8.07044,-11.63088 -8.07043,-20.41342"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
+       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.eps.png"
        inkscape:export-xdpi="167.37344"
        inkscape:export-ydpi="167.37344" />
     <path
@@ -180,7 +194,23 @@
        inkscape:connector-curvature="0"
        id="path3000"
        d="m 463.47962,170.82524 c -6.488,-7.43742 -9.73198,-18.11886 -9.73198,-32.04432 0,-13.92537 3.24398,-24.52769 9.73198,-31.80696 6.5671,-7.358252 16.10126,-11.03741 28.60254,-11.037497 12.58031,8.7e-5 22.1936,4.074857 28.8399,12.224317 l -7.71439,6.40887 c -5.30122,-6.09231 -12.30349,-9.13849 -21.00683,-9.13857 -8.62431,8e-5 -15.19142,2.84846 -19.70133,8.54516 -4.43084,5.69683 -6.64624,14.04417 -6.64623,25.04205 -10e-6,10.91883 2.29451,19.22661 6.8836,24.92336 4.66815,5.69678 11.51218,8.54516 20.5321,8.54515 5.77584,1e-5 11.31436,-0.90989 16.61558,-2.7297 l 0,-30.02672 11.39354,0 0,35.48612 c -7.99137,4.50995 -18.00027,6.76492 -30.02673,6.76492 -11.94742,0 -21.20465,-3.71872 -27.77175,-11.15618"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
+       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.eps.png"
+       inkscape:export-xdpi="167.37344"
+       inkscape:export-ydpi="167.37344" />
+    <path
+       style="font-size:108.83048248px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Telex;-inkscape-font-specification:Telex"
+       inkscape:connector-curvature="0"
+       id="path2992"
+       d="m 204.89631,176.68151 c -6.23513,-3.51806 -10.88613,-9.7346 -13.95297,-18.64968 -3.06682,-8.91499 -3.21238,-16.64156 -0.43663,-23.17973 2.84706,-6.56259 8.44285,-11.27919 16.78733,-14.14982 8.34447,-2.87049 15.622,-2.58241 21.83265,0.86426 6.2819,3.42226 10.95629,9.59088 14.02318,18.50588 3.06678,8.91509 3.18894,16.6896 0.36644,23.32354 -2.77581,6.53812 -8.33591,11.24246 -16.68036,14.11301 -8.34452,2.87056 -15.65771,2.59474 -21.93964,-0.82746 m -4.84347,-38.77238 c -1.53251,4.35574 -1.14564,9.88563 1.16063,16.5897 2.30625,6.70416 5.41556,11.3374 9.32797,13.89975 3.98367,2.53786 8.50739,2.93581 13.57116,1.19381 5.06371,-1.74192 8.34957,-4.82641 9.85757,-9.25347 1.57926,-4.45151 1.2158,-10.02934 -1.09044,-16.7335 -2.30629,-6.70408 -5.43902,-11.28939 -9.39816,-13.75596 -3.91239,-2.56232 -8.40046,-2.97253 -13.46417,-1.23061 -5.06376,1.74201 -8.38527,4.83878 -9.96456,9.29028"
+       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.eps.png"
+       inkscape:export-xdpi="167.37344"
+       inkscape:export-ydpi="167.37344" />
+    <path
+       style="font-size:108.83048248px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Telex;-inkscape-font-specification:Telex"
+       inkscape:connector-curvature="0"
+       id="path2994"
+       d="m 251.26079,173.05315 c -6.43722,-3.5068 -11.23973,-9.86445 -14.40753,-19.073 -3.16781,-9.20844 -3.31694,-17.12603 -0.44742,-23.75273 2.84438,-6.69968 8.46883,-11.49517 16.87344,-14.38648 15.63982,-5.38015 26.75324,1.50365 33.34031,20.65146 l 0.6034,1.75401 -39.35546,13.53857 c 2.33343,6.308 5.50354,10.65264 9.5103,13.03394 4.00673,2.38134 8.64113,2.66693 13.90315,0.85674 5.33505,-1.83528 10.69148,-5.2717 16.06925,-10.30927 l 5.37345,5.99779 c -5.71105,5.96954 -12.07455,10.16105 -19.09053,12.57459 -8.47771,2.9164 -15.93516,2.62119 -22.37236,-0.88562 m 4.80916,-49.09994 c -8.69692,2.99185 -12.16486,9.6609 -10.40377,20.00714 l 28.06406,-9.65426 c -2.24635,-4.86668 -4.79495,-8.11741 -7.6458,-9.7522 -2.876,-1.70776 -6.21416,-1.90797 -10.01449,-0.60068"
+       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.eps.png"
        inkscape:export-xdpi="167.37344"
        inkscape:export-ydpi="167.37344" />
     <path
@@ -191,30 +221,30 @@
        sodipodi:cy="113.25504"
        sodipodi:rx="4.4642859"
        sodipodi:ry="5.1785712"
-       d="m 269.75672,116.45983 a 4.4642859,5.1785712 0 1 1 0.0647,-0.0976"
+       d="m 269.75672,116.45983 c -1.52582,2.24658 -4.33276,2.63296 -6.26947,0.86301 -1.9367,-1.76996 -2.26979,-5.026 -0.74397,-7.27258 1.52582,-2.24658 4.33276,-2.63297 6.26947,-0.86301 1.90421,1.74026 2.2632,4.92528 0.80868,7.17494"
        sodipodi:start="0.66728433"
        sodipodi:end="6.9266864"
        sodipodi:open="true"
-       transform="matrix(0.68814744,0,0,0.68814744,83.49502,60.426013)"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
+       transform="matrix(0.64286899,0.31377616,-0.31377616,0.64286899,128.92625,-1.8002712)"
+       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.eps.png"
        inkscape:export-xdpi="167.37344"
        inkscape:export-ydpi="167.37344" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 226.65301,111.88757 2.41335,4.13777 17.22951,-17.377439 -3.71193,-5.497648 z"
+       style="fill:#000000;stroke:#000000;stroke-width:1.03954065px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 239.19975,111.55131 0.36786,4.96594 24.01947,-8.37787 -0.96092,-6.82846 z"
        id="path3843"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
+       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.eps.png"
        inkscape:export-xdpi="167.37344"
        inkscape:export-ydpi="167.37344" />
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 218.67589,119.47138 -3.17566,-2.63752 -24.26474,6.9629 5.61316,5.16221 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:2.0790813;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 228.28951,114.99877 -1.76408,-3.91198 -25.84307,-4.55928 2.89001,7.38199 z"
        id="path3843-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
+       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.eps.png"
        inkscape:export-xdpi="167.37344"
        inkscape:export-ydpi="167.37344" />
     <path
@@ -222,23 +252,23 @@
        inkscape:connector-curvature="0"
        id="path3000-4"
        d="m 109.68104,170.5142 c -6.488,-7.43742 -9.73198,-18.11886 -9.73198,-32.04432 0,-13.92537 3.24398,-24.52769 9.73198,-31.80696 6.5671,-7.35826 16.10126,-11.037411 28.60254,-11.037501 12.58031,9e-5 22.1936,4.074861 28.8399,12.224321 l -7.71439,6.40887 c -5.30122,-6.09231 -12.30349,-9.13849 -21.00683,-9.13857 -8.62431,8e-5 -15.19142,2.84846 -19.70133,8.54516 -4.43084,5.69683 -6.64624,14.04417 -6.64623,25.04205 -1e-5,10.91883 2.29451,19.22661 6.8836,24.92336 4.66815,5.69678 11.51218,8.54516 20.5321,8.54515 5.77584,1e-5 11.31436,-0.90989 16.61558,-2.7297 l 0,-30.02672 11.39354,0 0,35.48612 c -7.99137,4.50995 -18.00027,6.76492 -30.02673,6.76492 -11.94742,0 -21.20465,-3.71872 -27.77175,-11.15618"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
+       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.eps.png"
        inkscape:export-xdpi="167.37344"
        inkscape:export-ydpi="167.37344" />
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.89999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="path3014"
+       id="path3014-6-5"
        sodipodi:cx="266.25"
        sodipodi:cy="113.25504"
        sodipodi:rx="4.4642859"
        sodipodi:ry="5.1785712"
-       d="m 269.75672,116.45983 a 4.4642859,5.1785712 0 1 1 0.0647,-0.0976"
+       d="m 269.75672,116.45983 c -1.52582,2.24658 -4.33276,2.63296 -6.26947,0.86301 -1.9367,-1.76996 -2.26979,-5.026 -0.74397,-7.27258 1.52582,-2.24658 4.33276,-2.63297 6.26947,-0.86301 1.90421,1.74026 2.2632,4.92528 0.80868,7.17494"
        sodipodi:start="0.66728433"
        sodipodi:end="6.9266864"
        sodipodi:open="true"
-       transform="matrix(0.68814744,0,0,0.68814744,47.075211,83.47147)"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
+       transform="matrix(0.64286899,0.31377616,-0.31377616,0.64286899,84.58616,-0.0144875)"
+       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.eps.png"
        inkscape:export-xdpi="167.37344"
        inkscape:export-ydpi="167.37344" />
   </g>
@@ -246,33 +276,6 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Beak"
-     style="display:inline">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 273.33024,164.01758 c 0,0 65.91591,31.92729 70.71429,54.28571 4.79838,22.35842 -8.92857,7.49999 -8.92857,7.49999 0,0 -9.88435,-7.25627 -22.50001,-15.71428 -12.61566,-8.458 -39.92858,-17.18956 -52.49999,-21.42857 -12.57141,-4.23901 -19.64287,-8.57143 -19.64287,-8.57143"
-       id="path3006"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czczzc"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
-       inkscape:export-xdpi="167.37344"
-       inkscape:export-ydpi="167.37344" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 330.11596,222.589 c 0,0 -39.27563,-11.67226 -63.57143,-21.78572 -24.2958,-10.11346 -52.50001,-3.92857 -52.50001,-3.92857"
-       id="path3010"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czc"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
-       inkscape:export-xdpi="167.37344"
-       inkscape:export-ydpi="167.37344" />
-    <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 281.20533,179.37471 c -7.1029,1.79418 -12.34972,-2.86991 -15.06314,-7.87076 0,0 12.68872,0.13094 15.06314,7.87076 z"
-       id="path3012"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/schmidbt/projects/goelug/graphisme/logo/goelug_proposition1/goelug_t3.png"
-       inkscape:export-xdpi="167.37344"
-       inkscape:export-ydpi="167.37344" />
-  </g>
+     style="display:inline"
+     transform="translate(-96.94906,-42.634194)" />
 </svg>
