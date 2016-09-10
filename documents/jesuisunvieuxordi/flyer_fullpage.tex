@@ -1,0 +1,43 @@
+\documentclass[a4paper]{slides}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[frenchb]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fullpage}
+
+\usepackage[sfdefault]{merriweather} %% Option 'black' gives heavier bold face
+
+\usepackage{tikz}
+
+\date{}
+\title{Go\'{e}LUG - Linux User Group Le Havre}
+\author{Go\'{e}LUG \footnote{\url{contact@goelug.fr}}}
+
+% Finally, give us PDF bookmarks
+\usepackage{color,hyperref}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.3}
+\hypersetup{colorlinks,breaklinks,
+	linkcolor=darkblue,urlcolor=darkblue,
+	anchorcolor=darkblue,citecolor=darkblue}
+
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+
+\pagestyle{empty}
+
+\begin{document}
+
+%  FRONT
+\input{content.tex}
+\newpage
+
+% BACK
+\input{content_back.tex}
+\newpage
+
+\end{document}
